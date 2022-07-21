@@ -1,6 +1,6 @@
 import fs from 'fs';
-
-const path = './files/objetos.json'
+import __dirname from './../utils.js';
+const path = (__dirname+'/files/objetos.json')
 
 class Contenedor {
    getAll = async()=>{
