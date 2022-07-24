@@ -1,0 +1,20 @@
+[
+    {
+        "producto": "lechuga",
+        "categoria": "verdura",
+        "precio": 23,
+        "id": 1
+    },
+    {
+        "producto": "papa",
+        "categoria": "verdura",
+        "precio": 35,
+        "id": 2
+    },
+    {
+        "producto": "manzana",
+        "categoria": "fruta",
+        "precio": 18,
+        "id": 3
+    }
+]
